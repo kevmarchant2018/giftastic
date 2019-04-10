@@ -1,2 +1,2 @@
-# giftastic
-giftastic 
+# giphy
+giphy
